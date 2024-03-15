@@ -1,0 +1,11 @@
+C:\Users\Gerald Ramaru\Desktop\1533\PracticalAssignment1_2019008768\obj\Debug\PracticalAssignment1_2019008768.csproj.AssemblyReference.cache
+C:\Users\Gerald Ramaru\Desktop\1533\PracticalAssignment1_2019008768\obj\Debug\PracticalAssignment1_2019008768.csproj.CoreCompileInputs.cache
+C:\Users\Gerald Ramaru\Desktop\1533\PracticalAssignment1_2019008768\bin\Debug\PracticalAssignment1_2019008768.exe.config
+C:\Users\Gerald Ramaru\Desktop\1533\PracticalAssignment1_2019008768\bin\Debug\PracticalAssignment1_2019008768.exe
+C:\Users\Gerald Ramaru\Desktop\1533\PracticalAssignment1_2019008768\bin\Debug\PracticalAssignment1_2019008768.pdb
+C:\Users\Gerald Ramaru\Desktop\1533\PracticalAssignment1_2019008768\obj\Debug\PracticalAssignment1_2019008768.exe
+C:\Users\Gerald Ramaru\Desktop\1533\PracticalAssignment1_2019008768\obj\Debug\PracticalAssignment1_2019008768.pdb
+C:\Users\Gerald Ramaru\Desktop\1533\PracticalAssignment1_2019008768\Question 2\obj\Debug\PracticalAssignment1_2019008768.csproj.AssemblyReference.cache
+C:\Users\Gerald Ramaru\Desktop\1533\PracticalAssignment1_2019008768\Question 2\obj\Debug\PracticalAssignment1_2019008768.csproj.CoreCompileInputs.cache
+C:\Users\Gerald Ramaru\Desktop\1533\PracticalAssignment1_2019008768\Question 2\obj\Debug\PracticalAssignment1_2019008768.exe
+C:\Users\Gerald Ramaru\Desktop\1533\PracticalAssignment1_2019008768\Question 2\obj\Debug\PracticalAssignment1_2019008768.pdb

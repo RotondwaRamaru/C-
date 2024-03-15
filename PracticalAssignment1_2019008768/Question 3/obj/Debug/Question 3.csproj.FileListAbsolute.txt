@@ -1,0 +1,7 @@
+C:\Users\Gerald Ramaru\Desktop\1533\PracticalAssignment1_2019008768\Question 3\bin\Debug\Question 3.exe.config
+C:\Users\Gerald Ramaru\Desktop\1533\PracticalAssignment1_2019008768\Question 3\bin\Debug\Question 3.exe
+C:\Users\Gerald Ramaru\Desktop\1533\PracticalAssignment1_2019008768\Question 3\bin\Debug\Question 3.pdb
+C:\Users\Gerald Ramaru\Desktop\1533\PracticalAssignment1_2019008768\Question 3\obj\Debug\Question 3.csproj.AssemblyReference.cache
+C:\Users\Gerald Ramaru\Desktop\1533\PracticalAssignment1_2019008768\Question 3\obj\Debug\Question 3.csproj.CoreCompileInputs.cache
+C:\Users\Gerald Ramaru\Desktop\1533\PracticalAssignment1_2019008768\Question 3\obj\Debug\Question 3.exe
+C:\Users\Gerald Ramaru\Desktop\1533\PracticalAssignment1_2019008768\Question 3\obj\Debug\Question 3.pdb

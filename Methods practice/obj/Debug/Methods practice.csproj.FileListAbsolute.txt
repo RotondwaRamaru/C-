@@ -1,0 +1,7 @@
+C:\Users\Gerald Ramaru\Desktop\1533\Methods practice\bin\Debug\Methods practice.exe.config
+C:\Users\Gerald Ramaru\Desktop\1533\Methods practice\bin\Debug\Methods practice.exe
+C:\Users\Gerald Ramaru\Desktop\1533\Methods practice\bin\Debug\Methods practice.pdb
+C:\Users\Gerald Ramaru\Desktop\1533\Methods practice\obj\Debug\Methods practice.csproj.AssemblyReference.cache
+C:\Users\Gerald Ramaru\Desktop\1533\Methods practice\obj\Debug\Methods practice.csproj.CoreCompileInputs.cache
+C:\Users\Gerald Ramaru\Desktop\1533\Methods practice\obj\Debug\Methods practice.exe
+C:\Users\Gerald Ramaru\Desktop\1533\Methods practice\obj\Debug\Methods practice.pdb
